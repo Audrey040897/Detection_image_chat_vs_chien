@@ -3,3 +3,4 @@ numpy
 matplotlib
 random2
 scikit-metrics
+tqdm
