@@ -1,3 +1,5 @@
 h5py
 numpy
 matplotlib
+random2
+scikit-metrics
